@@ -1,0 +1,26 @@
+{
+    "name": "MarkusBansky/afgor-cms",
+    "description": "Simple content managment system by Markus Benovsky from afgor.com",
+    "keywords": ["afgor", "cms", "simple"],
+    "homepage": "https://github.com/MarkusBansky/afgor-cms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Markus Benovsky",
+            "email": "markus@afgor.com",
+            "homepage": "http://afgor.com/",
+            "role": "CEO"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.17"
+    },
+    "require-dev": {
+        "codeclimate/php-test-reporter": "dev-master" 
+    },
+    "autoload": {
+        "psr-0": {
+            "auth": "dashboard/"
+        }
+    }
+}

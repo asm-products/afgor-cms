@@ -1,0 +1,20 @@
+.card,
+.panel-body {
+    margin: 20px auto;
+    padding: 20px 40px;
+}
+
+.panel-actions {
+    margin: auto 40px;
+    padding-bottom: 20px;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}

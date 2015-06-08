@@ -1,0 +1,7 @@
+{
+  "name": "Afgor CMS",
+  "description": "Somple CMS framework for your folio",
+  "repository": "https://github.com/MarkusBansky/afgor-cms",
+  "logo": "http://images.matthewis.me/img/svg/html5.svg",
+  "keywords": ["html5", "cms", "afgor", "php", "angular"]
+}
